@@ -1,8 +1,10 @@
 #btn    {
     background-color: rgb(255, 0, 0);
-    color: rgb(0, 20, 204);
+    color: rgb(247, 247, 247);
 }
-
-#heading    {
-    font-size: 3rem;
-}
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
